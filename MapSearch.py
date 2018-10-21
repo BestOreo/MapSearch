@@ -5,7 +5,7 @@ header = {
     'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
 }
 
-GoogleKey = "AIzaSyDfa5iUU0doB1TzEbBcVx6xJLjdhQbW67E" # Free service allows maximum 150000 requests every 24 hours. You need pay if you want more
+GoogleKey = "" # Free service allows maximum 150000 requests every 24 hours. You need pay if you want more
 
 
 def Get_Detail_by_ID(place_id):
